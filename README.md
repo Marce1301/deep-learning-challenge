@@ -98,7 +98,7 @@ Use any or all of the following methods to optimize your model:
 ![image](https://github.com/Marce1301/deep-learning-challenge/assets/119386031/ce9af6bf-9664-43a9-be4b-381d4b4b9684)
 # Step 4: Write a Report on the Neural Network Model
 
-
+https://github.com/Marce1301/deep-learning-challenge/blob/main/Starter_Code/Report.md
 
 
 # References
